@@ -4,10 +4,10 @@
 ## I. Introducción
 
 ### 1.1 Título del Proyecto
-[cite_start]Predicción de Preocupación por Salud Mental utilizando Aprendizaje Automático basado en Datos de Encuestas[cite: 1].
+Predicción de Preocupación por Salud Mental utilizando Aprendizaje Automático basado en Datos de Encuestas[cite: 1].
 
 ### 1.2 Antecedentes
-[cite_start]La salud mental es un área crítica que afecta a millones de personas a nivel global[cite: 1]. [cite_start]Tradicionalmente, la identificación de trastornos como la depresión se basa en evaluaciones clínicas y cuestionarios estandarizados[cite: 2]. [cite_start]Si bien estos métodos son fundamentales, pueden ser subjetivos o tardíos[cite: 3]. [cite_start]En ausencia de datos clínicos directos o cuestionarios validados como el PHQ-9 en el conjunto de datos actual, la aplicación del aprendizaje automático ofrece una alternativa para analizar patrones en datos de encuestas disponibles[cite: 4]. [cite_start]Esta aproximación permite predecir la probabilidad de que una persona manifieste indicadores de preocupación por su salud mental, basándose en factores personales y percepciones sobre el entorno laboral y la búsqueda de ayuda[cite: 5]. [cite_start]Esta capacidad facilita la identificación temprana de individuos que podrían beneficiarse de una intervención o apoyo[cite: 6].
+La salud mental es un área crítica que afecta a millones de personas a nivel global[cite: 1]. [cite_start]Tradicionalmente, la identificación de trastornos como la depresión se basa en evaluaciones clínicas y cuestionarios estandarizados[cite: 2]. [cite_start]Si bien estos métodos son fundamentales, pueden ser subjetivos o tardíos[cite: 3]. ]En ausencia de datos clínicos directos o cuestionarios validados como el PHQ-9 en el conjunto de datos actual, la aplicación del aprendizaje automático ofrece una alternativa para analizar patrones en datos de encuestas disponibles[cite: 4]. [cite_start]Esta aproximación permite predecir la probabilidad de que una persona manifieste indicadores de preocupación por su salud mental, basándose en factores personales y percepciones sobre el entorno laboral y la búsqueda de ayuda[cite: 5]. [cite_start]Esta capacidad facilita la identificación temprana de individuos que podrían beneficiarse de una intervención o apoyo[cite: 6].
 
 ### 1.3 Problema a Resolver
 [cite_start]¿Cómo se pueden utilizar técnicas de aprendizaje automático para predecir de manera automatizada y precisa la probabilidad de que una persona manifieste preocupación por su salud mental, a partir de datos recolectados mediante encuestas que reflejan factores personales y experiencias laborales relacionadas con la salud mental? [cite: 7]
@@ -15,12 +15,12 @@
 ### 1.4 Objetivos
 
 **Objetivo General:**
-[cite_start]Desarrollar un modelo predictivo basado en técnicas de aprendizaje automático que permita identificar de manera automatizada y precisa la probabilidad de que una persona manifieste preocupación por su salud mental, a partir del análisis de datos obtenidos mediante encuestas sobre factores personales y el entorno laboral[cite: 8].
+Desarrollar un modelo predictivo basado en técnicas de aprendizaje automático que permita identificar de manera automatizada y precisa la probabilidad de que una persona manifieste preocupación por su salud mental, a partir del análisis de datos obtenidos mediante encuestas sobre factores personales y el entorno laboral[cite: 8].
 
 **Objetivos Específicos:**
-* [cite_start]Recopilar y preprocesar datos provenientes de encuestas, derivando una variable objetivo "Preocupación por Salud Mental" a partir de indicadores indirectos disponibles[cite: 9].
-* [cite_start]Implementar y entrenar modelos de aprendizaje automático supervisado (Random Forest Classifier y Red Neuronal Convolucional 1D) para la clasificación binaria de la preocupación por salud mental[cite: 10].
-* [cite_start]Evaluar el desempeño de los modelos utilizando métricas como precisión (accuracy), recall, F1-score y matriz de confusión, para determinar su efectividad en la detección de posibles casos de preocupación por salud mental[cite: 11].
+* Recopilar y preprocesar datos provenientes de encuestas, derivando una variable objetivo "Preocupación por Salud Mental" a partir de indicadores indirectos disponibles[cite: 9].
+* Implementar y entrenar modelos de aprendizaje automático supervisado (Random Forest Classifier y Red Neuronal Convolucional 1D) para la clasificación binaria de la preocupación por salud mental[cite: 10].
+* Evaluar el desempeño de los modelos utilizando métricas como precisión (accuracy), recall, F1-score y matriz de confusión, para determinar su efectividad en la detección de posibles casos de preocupación por salud mental[cite: 11].
 * [cite_start]Analizar la importancia de variables para identificar los factores personales y laborales que tienen mayor peso en la predicción de la preocupación por salud mental[cite: 12].
 
 ## II. Requerimientos del Sistema
