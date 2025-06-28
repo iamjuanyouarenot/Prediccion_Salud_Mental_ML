@@ -161,4 +161,4 @@ Este proyecto demuestra con éxito la aplicación de técnicas de Machine Learni
 ---
 
 **Link al código (Google Colab):**
-[Inserta aquí el enlace público a tu notebook de Google Colab]
+https://colab.research.google.com/drive/1uj6RyO1cSUcbDQ1evsxs9T4-NHCEbfID?usp=sharing 
